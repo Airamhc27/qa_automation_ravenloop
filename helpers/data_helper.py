@@ -1,0 +1,5 @@
+USUARIO_VALIDO = "standard_user"
+USUARIO_INVALIDO = "usuario_invalido"
+CONTRASENA_VALIDA = "secret_sauce"
+CONTRASENA_INVALIDA = "contrasena_invalida"
+API_KEY = "pub_5d75da426da5d7e7a47368d0798ac36ef05e66802656e7417bf1a22e6551cde0"

@@ -1,0 +1,7 @@
+ELEMENTOS_INVENTARIO = "#inventory_container .inventory_item"
+IMAGEN_ELEMENTO_INVENTARIO = "img"
+TITULO_ELEMENTO_INVENTARIO = ".inventory_item_name"
+DESCRIPCION_ELEMENTO_INVENTARIO = ".inventory_item_desc"
+PRECIO_ELEMENTO_INVENTARIO = ".inventory_item_price"
+BOTON_AGREGAR_CARRITO_ELEMENTO_INVENTARIO = ".btn_inventory"
+CONTADOR_CARRITO = "#shopping_cart_container span"
